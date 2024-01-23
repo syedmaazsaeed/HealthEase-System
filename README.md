@@ -8,7 +8,7 @@ This is a Health Ease System developed using C# and Windows Forms for the fronte
 2. ![Medicine Cell](Assets/Images/Medicine-Cell.png)
 3. ![Customer Section](Assets/Images/Customer-Section.png)
 4. ![Seller Details](Assets/Images/Seller.png)
-5. ![Selling Section](Assets/Images/Selling.png)
+5. ![Selling Section](Assets/Images/Manufacturer-Details.png)
 
 ## Features
 
