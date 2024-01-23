@@ -5,10 +5,14 @@ This is a Health Ease System developed using C# and Windows Forms for the fronte
 ## Design Interface 
 
 1. ![Dashboard Panel](Assets/Images/Dashboard-Panel.png)
+   
 2. ![Medicine Cell](Assets/Images/Medicine-Cell.png)
+   
 3. ![Customer Section](Assets/Images/Customer-Section.png)
+   
 4. ![Seller Details](Assets/Images/Seller.png)
-5. ![Selling Section](Assets/Images/Manufacturer-Details.png)
+   
+5. ![Manufacturer Section](Assets/Images/Manufacturer-Details.png)
 
 ## Features
 
