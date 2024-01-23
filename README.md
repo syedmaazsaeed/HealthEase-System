@@ -4,29 +4,32 @@ This is a Health Ease System developed using C# and Windows Forms for the fronte
 
 ## Design Interface 
 
-1. ![Dashboard Panel](Assets/Images/Dashboard-Panel.png)
-
 💫💫💫Dashboard Panel: 
   In my Dashboard Panel  is part of a Pharmacy Management System in C# Windows Forms. It provides a visual dashboard displaying counts of medicines, sellers, and customers, along with total sales. 
+1. ![Dashboard Panel](Assets/Images/Dashboard-Panel.png)
 
-  2. ![Medicine Cell](Assets/Images/Medicine-Cell.png)
 💫💫💫   Medicine Cell :
    The Medicine file manages medicine information in a Pharmacy Management System using C# Windows Forms. It allows adding, updating, and deleting medicines, along with viewing details
    
-5. ![Customer Section](Assets/Images/Customer-Section.png)
+  2. ![Medicine Cell](Assets/Images/Medicine-Cell.png)
 
 💫💫💫 Customer Section:
 The Customer file handles customer records in a Pharmacy Management System with C# Windows Forms. It includes functionalities for adding, updating, and deleting customer information.
 
-6. ![Seller Details](Assets/Images/Seller.png)
+5. ![Customer Section](Assets/Images/Customer-Section.png)
+
 
 💫💫💫  Seller:
 The Sellers file oversees seller-related functionalities in a Pharmacy Management System with C# Windows Forms. It facilitates the addition, update, and deletion of seller information.
    
-7. ![Manufacturer Section](Assets/Images/Manufacturer-Details.png)
+6. ![Seller Details](Assets/Images/Seller.png)
 
 💫💫💫   Manufacturer Section:
    The Manufacturer file is responsible for managing manufacturer details in a Pharmacy Management System using C# Windows Forms. It provides features to add, update, and delete manufacturer records.
+
+7. ![Manufacturer Section](Assets/Images/Manufacturer-Details.png)
+
+
 
 ## Features
 
