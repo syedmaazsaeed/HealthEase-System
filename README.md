@@ -2,6 +2,14 @@
 
 This is a Health Ease System developed using C# and Windows Forms for the frontend interface. It uses SQL Server for the backend database.
 
+## Design Interface 
+
+1. ![Dashboard Panel](Assets/Images/Dashboard-Panel.png)
+2. ![Medicine Cell](Assets/Images/Medicine-Cell.png)
+3. ![Customer Section](Assets/Images/Customer-Section.png)
+4. ![Seller Details](Assets/Images/Seller.png)
+5. ![Selling Section](Assets/Images/Manufacturer-Details.png)
+
 ## Features
 
 - **Medicine Management**: Allows users to add, update, and delete medicines with details such as name, type, quantity, price, and manufacturer.
