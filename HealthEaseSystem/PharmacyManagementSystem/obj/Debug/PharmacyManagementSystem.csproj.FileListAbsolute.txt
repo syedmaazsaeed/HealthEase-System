@@ -60,3 +60,34 @@ C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\PharmacyManagementSystem - C
 C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\PharmacyManagementSystem - Copy\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
 C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\PharmacyManagementSystem - Copy\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
 C:\Users\syedm\OneDrive\Desktop\VP-Program-Practice\PharmacyManagementSystem - Copy\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.Dataviz.WinForms.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.Licensing.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.UI.WinForms.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.Utils.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\circle_progressbar.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Guna.Charts.WinForms.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Guna.UI2.dll
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.Dataviz.WinForms.xml
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.UI.WinForms.xml
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\bin\Debug\Guna.Charts.WinForms.xml
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.AdminLogin.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Customer.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Dashboard.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Login.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Manufacturer.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Medicines.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Sellers.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Sellings.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.StartingPage.resources
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+E:\Git-hub Repository\HealthEase-System\HealthEaseSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
