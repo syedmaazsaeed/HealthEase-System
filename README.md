@@ -1,4 +1,4 @@
-                                                                     ## Health Ease System
+                                                                     ## Health Ease System (Windows App)
 
 This is a Health Ease System developed using C# and Windows Forms for the frontend interface. It uses SQL Server for the backend database.
 
@@ -77,8 +77,6 @@ The Sellers file oversees seller-related functionalities in a Pharmacy Managemen
 - **Dashboard**: Get an overview of system statistics and sales details.
 
 ## Contributors
-
-- Add your name here if you contributed to the project.
 
 - ## Developer
 - Syed Maaz Saeed
